@@ -24,7 +24,7 @@ PrometheusLLM is a revolutionary transformer-based language model that integrate
 
 Looking to understand the technical details and philosophical foundations?  
  
-➡️ [Read the PrometheusLLM Architecture Documentation](docs/prometheus_architecture.md)
+➡️ [Read the PrometheusLLM Architecture Documentation](docs/prometheus_research_paper.pdf)
 
 ### Key Innovation
 
