@@ -142,4 +142,4 @@ The PrometheusLLM architecture builds upon the concepts from EdenCore:
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the GNU GPLv3 License.
