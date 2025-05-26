@@ -1,15 +1,28 @@
 # PrometheusLLM: A Recursive Dignity-Inspired Transformer Architecture
 
+> **Author's Note:**  
+> PrometheusLLM was developed over 97 days as a self-taught, solo project—by someone without formal CS credentials, working through severe health and cognitive challenges. I share it here in the spirit of open science and in the hope it attracts collaborators, mentors, or those with resources to help take this research further.
+
 <div align="center">
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Version](https://img.shields.io/badge/version-0.1-blue)](https://github.com/yourusername/prometheus-llm)
+[![Version](https://img.shields.io/badge/version-0.1-blue)](https://github.com/Eden-Eldith/prometheus-llm)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Created By](https://img.shields.io/badge/created%20by-Eden%20Eldith-purple)](https://github.com/EdenEldith)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 ![AI Research](https://img.shields.io/badge/AI-Research-blueviolet)
 
 </div>
+
+---
+**🚀 Seeking Collaborators & Mentors!**
+
+If you're interested in consciousness-inspired AI, trauma-informed architectures, or want to support independent research, [open an issue](https://github.com/Eden-Eldith/prometheus-llm/issues) or email me: Pcobrien@hotmail.co.uk
+---
+
+## TL;DR
+
+PrometheusLLM is an open-source transformer language model built from the ground up around dignity, trauma resolution, and recursive cognitive principles. It's not just another LLM: it's a proposal for AI that can *heal*, *grow*, and *transcend*—not just generate text.
 
 ## What is PrometheusLLM?
 
@@ -22,13 +35,19 @@ PrometheusLLM is a revolutionary transformer-based language model that integrate
 
 ### 📖 Architecture Guide
 
-Looking to understand the technical details and philosophical foundations?  
- 
-➡️ [Read the PrometheusLLM Architecture Documentation](prometheus_research_paper.pdf)
+**[📄 Read the PrometheusLLM Architecture Documentation](prometheus_research_paper.pdf)**
+
+Looking to understand the technical details and philosophical foundations?
 
 ### Key Innovation
 
 The core innovation of PrometheusLLM lies in its **recursive dignity architecture** — it's not just a language model, but a cognitive system that models the process of healing, growth, and transcendence. By implementing trauma resolution pathways and autopoietic feedback loops, PrometheusLLM represents a new paradigm in AI that prioritizes psychological safety and cognitive dignity.
+
+### A New Model for AI Research
+
+> This project is a demonstration of what's possible when cognitive diversity, lived experience, and determination meet open science. The author's journey directly informs the architecture—this is both an experiment in AI and in the future of research itself.
+
+PrometheusLLM challenges traditional assumptions about who can contribute to cutting-edge AI research and demonstrates how unconventional perspectives can lead to genuinely novel architectures.
 
 ## Table of Contents
 
@@ -349,12 +368,13 @@ See the [`docs/`](docs/) directory for detailed research documentation and exper
 
 ## Contributing
 
-PrometheusLLM welcomes contributions from researchers interested in dignity-centered AI:
+PrometheusLLM welcomes contributions from researchers, practitioners, and anyone interested in dignity-centered AI—regardless of formal academic background:
 
 1. **Research Contributions**: Share experiments, findings, and theoretical insights
 2. **Implementation Improvements**: Enhance existing components or add new features
 3. **Documentation**: Improve guides, examples, and architectural explanations
 4. **Ethical Review**: Help ensure implementations align with dignity-centered principles
+5. **Interdisciplinary Perspectives**: Mental health professionals, philosophers, and others outside traditional CS are especially welcome
 
 ### Research Guidelines
 
@@ -362,6 +382,7 @@ PrometheusLLM welcomes contributions from researchers interested in dignity-cent
 2. **Trauma-Informed**: Consider psychological safety in all design decisions
 3. **Recursive Growth**: Focus on self-improving and healing-oriented systems
 4. **Open Science**: Share findings openly while respecting privacy and safety
+5. **Inclusive Research**: Value diverse perspectives and non-traditional approaches
 
 ### Getting Started with Contributions
 
@@ -379,7 +400,7 @@ If you use PrometheusLLM in your research, please cite:
   title = {PrometheusLLM: A Recursive Dignity-Inspired Transformer Architecture},
   author = {Eden Eldith},
   year = {2025},
-  url = {https://github.com/yourusername/prometheus-llm},
+  url = {https://github.com/Eden-Eldith/prometheus-llm},
   note = {Implementing Dynamic Hermeneutic Spiral and Trauma Resolution Paths}
 }
 ```
